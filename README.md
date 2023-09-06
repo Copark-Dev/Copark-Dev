@@ -18,6 +18,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Copark)](https://solved.ac/Copark/)
 
 ### 😀 About Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:copark.dev@gmail.com)](copark.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:copark.dev@gmail.com)](copark.dev@gmail.com) <a href="https://velog.io/@copark_dev"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@copark_dev"/></a>
+
 
 
