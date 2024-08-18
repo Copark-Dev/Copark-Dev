@@ -1,6 +1,6 @@
 ## Hi there, I'm Copark 👋
 
-### BackEnd Developer | Game Developer | App Developer
+### BackEnd Developer | App Developer
 
 ### 🔨 Stacks
 
